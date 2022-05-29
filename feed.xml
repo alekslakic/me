@@ -3,7 +3,7 @@
     <title>Aleksandra</title>
     <link href="https://alekslakic.github.io/me/feed.xml" rel="self" />
     <link href="https://alekslakic.github.io/me" />
-    <updated>2022-05-27T17:43:09+02:00</updated>
+    <updated>2022-05-29T20:53:39+02:00</updated>
     <author>
         <name>Aleksandra Lakić</name>
     </author>
@@ -17,17 +17,18 @@
         <link href="https://alekslakic.github.io/me/about-me.html"/>
         <id>https://alekslakic.github.io/me/about-me.html</id>
 
-        <updated>2022-05-27T17:03:05+02:00</updated>
+        <updated>2022-05-29T20:53:39+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alekslakic.github.io/me/media/posts/4/aleks4.jpeg" alt="" />
-                    Project manager with 3+ year of experience in developing, implementing and coordinating programs and projects. Strong competencies in organizing teams and allocating resources in compliance with project goals and objectives. Administrative and communication proficiency. 
+                    Project manager with 3+ year of experience in developing, implementing and coordinating programs and projects. Strong competencies in organizing teams and allocating resources in compliance with project goals and objectives. Administrative and communication proficiency. Looking to show you my work
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://alekslakic.github.io/me/media/posts/4/aleks4.jpeg" alt="" />
                 <p>Project manager with 3+ year of experience in developing, implementing and coordinating programs and projects. Strong competencies in organizing teams and allocating resources in compliance with project goals and objectives. Administrative and communication proficiency. </p>
+<p>Looking to show you my work</p>
             ]]>
         </content>
     </entry>
