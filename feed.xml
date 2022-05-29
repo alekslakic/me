@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Aleksandra Lakić</title>
+    <link href="https://alekslakic.github.io/me/feed.xml" rel="self" />
+    <link href="https://alekslakic.github.io/me" />
+    <updated>2022-05-26T16:36:00+02:00</updated>
+    <author>
+        <name>Aleksandra Lakić</name>
+    </author>
+    <id>https://alekslakic.github.io/me</id>
+
+    <entry>
+        <title>My Publications</title>
+        <author>
+            <name>Aleksandra Lakić</name>
+        </author>
+        <link href="https://alekslakic.github.io/me/my-publications.html"/>
+        <id>https://alekslakic.github.io/me/my-publications.html</id>
+
+        <updated>2022-05-26T16:36:00+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://alekslakic.github.io/me/media/posts/2/2knjige.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://alekslakic.github.io/me/media/posts/2/2knjige-2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-xs.png 300w ,https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-sm.png 480w ,https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-md.png 768w"  alt="" width="3258" height="1679"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>21st Century Self-management</title>
+        <author>
+            <name>Aleksandra Lakić</name>
+        </author>
+        <link href="https://alekslakic.github.io/me/21st-century-self-management.html"/>
+        <id>https://alekslakic.github.io/me/21st-century-self-management.html</id>
+
+        <updated>2022-05-23T21:15:35+02:00</updated>
+            <summary>
+                <![CDATA[
+                    "The experience of Yugoslav self-governing socialism is a unique example of a broad, systemic application, of economic democracy principles, aiming to achieve greater participation of employees in economic decision-making, decentralisation of ownership and social reproduction beyond market."&nbsp;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    "The experience of  Yugoslav self-governing socialism is a unique example of a broad, systemic application, of economic democracy principles, aiming to achieve greater participation of employees in economic decision-making, decentralisation of ownership and social reproduction beyond market."&nbsp;
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://alekslakic.github.io/me/media/posts/1/2knjige-2.png" sizes="(min-width: 61.3125em) 50vw, 100vw" srcset="https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-xs.png 300w ,https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-sm.png 480w ,https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-md.png 768w"  height="1679" width="3258" alt="" />
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

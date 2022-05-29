@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Aleksandra Lakić",
+    "description": "",
+    "home_page_url": "https://alekslakic.github.io/me",
+    "feed_url": "https://alekslakic.github.io/me/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Aleksandra Lakić"
+    },
+    "items": [
+        {
+            "id": "https://alekslakic.github.io/me/my-publications.html",
+            "url": "https://alekslakic.github.io/me/my-publications.html",
+            "title": "My Publications",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://alekslakic.github.io/me/media/posts/2/2knjige-2.png\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-xs.png 300w ,https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-sm.png 480w ,https://alekslakic.github.io/me/media/posts/2/responsive/2knjige-2-md.png 768w\"  alt=\"\" width=\"3258\" height=\"1679\"></figure>",
+            "image": "https://alekslakic.github.io/me/media/posts/2/2knjige.png",
+            "author": {
+                "name": "Aleksandra Lakić"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-26T16:14:51+02:00",
+            "date_modified": "2022-05-26T16:36:00+02:00"
+        },
+        {
+            "id": "https://alekslakic.github.io/me/21st-century-self-management.html",
+            "url": "https://alekslakic.github.io/me/21st-century-self-management.html",
+            "title": "21st Century Self-management",
+            "summary": "\"The experience of Yugoslav self-governing socialism is a unique example of a broad, systemic application, of economic democracy principles, aiming to achieve greater participation of employees in economic decision-making, decentralisation of ownership and social reproduction beyond market.\"&nbsp;",
+            "content_html": "\n  <p>\n    \"The experience of  Yugoslav self-governing socialism is a unique example of a broad, systemic application, of economic democracy principles, aiming to achieve greater participation of employees in economic decision-making, decentralisation of ownership and social reproduction beyond market.\"&nbsp;\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://alekslakic.github.io/me/media/posts/1/2knjige-2.png\" sizes=\"(min-width: 61.3125em) 50vw, 100vw\" srcset=\"https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-xs.png 300w ,https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-sm.png 480w ,https://alekslakic.github.io/me/media/posts/1/responsive/2knjige-2-md.png 768w\"  height=\"1679\" width=\"3258\" alt=\"\" />\n      \n    </figure>",
+            "author": {
+                "name": "Aleksandra Lakić"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-05-23T21:13:59+02:00",
+            "date_modified": "2022-05-23T21:15:35+02:00"
+        }
+    ]
+}
